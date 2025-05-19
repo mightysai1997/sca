@@ -84,7 +84,7 @@
         <dependency>
                 <groupId>org.redisson</groupId>
                 <artifactId>redisson</artifactId>
-                <version>3.21.3</version>
+                <version>3.45.1</version>
         </dependency>
         <dependency>
                 <groupId>com.xuxueli</groupId>
