@@ -17,7 +17,7 @@
         <dependency>
                 <groupId>io.undertow</groupId>
                 <artifactId>undertow-core</artifactId>
-                <version>2.3.0.Final</version>
+                <version>2.3.9.Final</version>
         </dependency>
          <!-- https://mvnrepository.com/artifact/org.jenkins-ci.main/jenkins-core -->
         <dependency>
@@ -69,7 +69,7 @@
         <dependency>
                 <groupId>org.apache.cassandra</groupId>
                 <artifactId>cassandra-all</artifactId>
-                <version>5.0.2</version>
+                <version>5.0.5</version>
         </dependency>
         <dependency>
                 <groupId>org.apache.solr</groupId>
